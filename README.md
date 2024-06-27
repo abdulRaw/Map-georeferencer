@@ -1,7 +1,7 @@
 # Map-georeferencer
 An Proof of concept to georeference maps with Openlayers (ol).
 
-##h How to Run The Project 
+## How to Run The Project 
 
 Clone the repo 
 1. Make sure you have node js installed
