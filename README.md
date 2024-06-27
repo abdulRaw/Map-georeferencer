@@ -1,6 +1,13 @@
 # Map-georeferencer
 An Proof of concept to georeference maps with Openlayers (ol).
 
+##h How to Run The Project 
+
+Clone the repo 
+1. Make sure you have node js installed
+2. Inside the project open cmd install need full dependencies  npm i
+3. Launch Index.html using live server 
+
 ## Description
 
 [![screenshot](screenshot.jpg)](http://viglino.github.io/Map-georeferencer/)
